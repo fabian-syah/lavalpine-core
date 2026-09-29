@@ -129,8 +129,8 @@ If you'd like to contribute:
 ### 🎉 Thanks to Contributors
 A massive thank you to everyone who has contributed to making Lavalpine better. Your pull requests, bug reports, and feature suggestions are deeply appreciated!
 
-<a href="https://github.com/kirabian/lavalpine-core/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kirabian/lavalpine-core" alt="Contributors" />
+<a href="https://github.com/fabian-syah/lavalpine-core/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fabian-syah/lavalpine-core" alt="Contributors" />
 </a>
 
 ---
